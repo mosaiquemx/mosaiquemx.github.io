@@ -1724,6 +1724,7 @@
 			display: block;
 			width: 100%;
 			margin: 0 0 3em 0;
+
 		}
 
 		.image.left {
@@ -2036,7 +2037,7 @@
 	#footer-wrapper {
 		-webkit-transform: translate3d(0, 0, 0);
 		position: relative;
-		border-top: solid 1px #c2c7cc;
+		border-top: solid 1.5px #003366;
 		padding: 6em 0 6em 0;
 		background-image: url("images/overlay.png"), url("images/footer.svg");
 		background-size: 128px 128px,				100% 100%;
@@ -2339,7 +2340,7 @@
 			}
 
 			#footer-wrapper {
-				padding: 5em 0 5em 0;
+				padding: 3em 0 3em 0;
 			}
 
 	}
