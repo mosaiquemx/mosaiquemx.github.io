@@ -2201,6 +2201,7 @@
 
 		#hero header > span {
 			color: #fff;
+			align-items: center;
 		}
 
 		#hero p {
