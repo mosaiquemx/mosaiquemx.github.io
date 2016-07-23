@@ -2202,6 +2202,7 @@
 		#hero header > span {
 			color: #fff;
 			align-items: center;
+			width: auto;
 		}
 
 		#hero p {
